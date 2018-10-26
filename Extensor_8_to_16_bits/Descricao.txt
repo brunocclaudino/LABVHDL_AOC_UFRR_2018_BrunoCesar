@@ -1,0 +1,6 @@
+Extensor 8 bits para 16 bits
+
+O componente contém:
+entrada - com o tipo de sinal STD_LOGIC_VECTOR -(8 bits de entrada);
+saida - com o tipo de sinal STD_LOGIC_VECTOR -(16 bits de saida);
+

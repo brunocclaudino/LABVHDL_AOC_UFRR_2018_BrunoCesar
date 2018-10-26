@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/brunoclaudino/intelFPGA_lite/18.0/Extensor_8_to_16_bits/simulation/qsim
+Eextensor_8_to_16_bits
+Z1 w1540583952
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 PDz30Zoj;e1JEj1l7dCiT1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 O_kVZAFaN7XDl67flUT[n1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ;`SHL]^j4UaADA9ENAN^]0
+R0
+Z9 8Extensor_8_to_16_bits.vho
+Z10 FExtensor_8_to_16_bits.vho
+l0
+L36
+Vk^g5d]z=F0mKiAbk@Q=N]3
+!s100 <_8>HzYcB^b6feJMBJA>]1
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1540583953
+!i10b 1
+Z13 !s108 1540583953.000000
+Z14 !s90 -work|work|Extensor_8_to_16_bits.vho|
+Z15 !s107 Extensor_8_to_16_bits.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 21 extensor_8_to_16_bits 0 22 k^g5d]z=F0mKiAbk@Q=N]3
+l80
+L43
+VbG_2]ZZL6cSdB0nP7`_`00
+!s100 :0BNFJgP09RSeZFc5^KZT3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Eextensor_8_to_16_bits_vhd_vec_tst
+Z18 w1540583950
+R6
+R7
+R0
+Z19 8Waveform.vwf.vht
+Z20 FWaveform.vwf.vht
+l0
+L31
+VCP<h8;I9Yk?DIX0?2STYU0
+!s100 z5Rk`C4^jG:JR9S5PN5`53
+R11
+32
+R12
+!i10b 1
+R13
+Z21 !s90 -work|work|Waveform.vwf.vht|
+Z22 !s107 Waveform.vwf.vht|
+!i113 1
+R16
+R17
+Aextensor_8_to_16_bits_arch
+R6
+R7
+DEx4 work 33 extensor_8_to_16_bits_vhd_vec_tst 0 22 CP<h8;I9Yk?DIX0?2STYU0
+l44
+L33
+VdUVNVD_>h<i]GBh9a:IH^1
+!s100 `B_Mn>1h^J9>RjXHmcD1P1
+R11
+32
+R12
+!i10b 1
+R13
+R21
+R22
+!i113 1
+R16
+R17
