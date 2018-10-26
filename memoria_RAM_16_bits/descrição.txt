@@ -1,0 +1,7 @@
+A memória ram desenvolvida.
+
+clk: com o tipo de sinal STD_LOGIC(sinal de clock do processador);
+esc_memoria: sinal para escrita na memória;
+Endereco: endereço de 8 bits da memória;
+E_data: dado de entrada em 16 bits;
+S_data: Saida do dado no endereço em questão em 16 bits;
