@@ -1,0 +1,14 @@
+A máquina de estados desenvolvida com suas respectivas 
+portas de entradas e saidas:
+
+clk: com o tipo de sinal STD_LOGIC_VECTOR (Sinal de Clock do processador);
+P: com o tipo de sinal STD_LOGIC(valor recebido em cada transição, responsável por definir o próximo estado);
+reset: com o tipo de sinal STD_LOGIC(sinal para reiniciar o processo, quando '1' a máquina volta para estado inicial);
+R: com o tipo de sinal STD_LOGIC(Seu valor é definido pelo estado atual);
+saida- com o tipo de sinal STD_LOGIC_VECTOR(com 2 bits), identifica o estado atual:
+		
+saida		estado atual
+00		     A	
+01		     B
+10		     C
+11		     D

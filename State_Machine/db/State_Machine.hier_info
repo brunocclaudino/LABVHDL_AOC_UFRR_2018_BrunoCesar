@@ -1,0 +1,17 @@
+|State_Machine
+clk => estado~5.DATAIN
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => estado.OUTPUTSELECT
+P => Selector1.IN3
+P => Selector0.IN1
+reset => estado~7.DATAIN
+R << R.DB_MAX_OUTPUT_PORT_TYPE
+saida[0] << saida.DB_MAX_OUTPUT_PORT_TYPE
+saida[1] << saida.DB_MAX_OUTPUT_PORT_TYPE
+
+
