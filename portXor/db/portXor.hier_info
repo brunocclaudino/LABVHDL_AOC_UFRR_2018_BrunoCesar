@@ -1,0 +1,36 @@
+|portXor
+A => portNot:G2.A
+A => portAnd:G3.A
+B => portNot:G1.A
+B => portAnd:G4.B
+F <= portor:G5.X
+
+
+|portXor|portNot:G1
+A => X.DATAIN
+X <= A.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|portXor|portNot:G2
+A => X.DATAIN
+X <= A.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|portXor|portAnd:G3
+A => X.IN0
+B => X.IN1
+X <= X.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|portXor|portAnd:G4
+A => X.IN0
+B => X.IN1
+X <= X.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|portXor|Portor:G5
+A => X.IN0
+B => X.IN1
+X <= X.DB_MAX_OUTPUT_PORT_TYPE
+
+

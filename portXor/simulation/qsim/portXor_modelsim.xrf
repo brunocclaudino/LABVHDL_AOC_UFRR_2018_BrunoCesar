@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/portXor/portXor.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/portXor/portAnd.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/portXor/portNot.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/portXor/portor.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/portXor/db/portXor.cbx.xml
+design_name = portXor
+instance = comp, \F~output\, F~output, portXor, 1
+instance = comp, \A~input\, A~input, portXor, 1
+instance = comp, \B~input\, B~input, portXor, 1
+instance = comp, \G5|X~0\, G5|X~0, portXor, 1

@@ -1,0 +1,5 @@
+Porta XOR desenvolvida usando port maps com respectivas entradas e saidas;
+
+A: com sinal BIT(entrada referente a porta or, que é ligada ao signal X3);
+B: com sinal BIT(entrada referente a porta or, que é ligada ao signal X4); 
+F: com sinal BIT(Saida final depois de todas as conexoes dos port maps);
