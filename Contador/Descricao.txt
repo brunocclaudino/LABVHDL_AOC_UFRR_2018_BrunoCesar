@@ -1,0 +1,4 @@
+Descriçao do Contador:
+
+clear, clk: sinais de entrada;
+Q : buffer vetor(2 bits)

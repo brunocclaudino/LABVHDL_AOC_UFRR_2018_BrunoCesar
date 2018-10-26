@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/Contador/Contador.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+source_file = 1, /home/brunoclaudino/intelFPGA_lite/18.0/Contador/db/Contador.cbx.xml
+design_name = Contador
+instance = comp, \Q[0]~output\, Q[0]~output, Contador, 1
+instance = comp, \Q[1]~output\, Q[1]~output, Contador, 1
+instance = comp, \clk~input\, clk~input, Contador, 1
+instance = comp, \clear~input\, clear~input, Contador, 1
+instance = comp, \Q~0\, Q~0, Contador, 1
+instance = comp, \Q[0]~reg0\, Q[0]~reg0, Contador, 1
+instance = comp, \Q~1\, Q~1, Contador, 1
+instance = comp, \Q[1]~reg0\, Q[1]~reg0, Contador, 1
