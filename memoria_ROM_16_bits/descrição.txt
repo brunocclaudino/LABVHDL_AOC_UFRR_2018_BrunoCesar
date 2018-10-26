@@ -1,0 +1,7 @@
+A memória rom desenvolvida.
+
+clk: com o tipo de sinal STD_LOGIC(sinal de clock do processador);
+esc_memoria: sinal para escrita na memória;
+ADDRESS: endereço de 8 bits da memória;
+INPUT_DATA: dado de entrada em 16 bits;
+OUTPUT_DATA: Saida do dado no endereço em questão em 16 bits;
