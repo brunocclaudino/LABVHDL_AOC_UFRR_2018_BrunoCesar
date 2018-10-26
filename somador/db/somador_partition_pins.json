@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "carry_out",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Entrada[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

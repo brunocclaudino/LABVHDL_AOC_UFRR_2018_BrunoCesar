@@ -1,0 +1,5 @@
+O Somador que recebe um valor e soma com 4 com as respectivas entradas e saidas.
+
+entrada - com o tipo de sinal STD_LOGIC_VECTOR( Com a entrada de 16 bits);
+saida - com o tipo de sinal STD_LOGIC_VECTOR(com o resultado da soma, saida de 16 bits).
+carry_out - com o tipo de sinal STD_LOGIC(indicador de OverFlow).
