@@ -1,0 +1,13 @@
+Flip Flop do tipo D desenvolvido, com as respectivas entradas e saidas:
+
+Desenvolvido com 16 bits.
+
+O componente contém:
+
+Clk: com tipo de sinal STD_LOGIC (Sinal de clock do processador)
+Reset  -com o tipo de sinal STD_LOGIC(Sinal para zerar o dado salvo no registrador);
+D  - com o tipo de sinal STD_LOGIC_VECTOR (16 bits de entrada);
+saida - com o tipo de sinal STD_LOGIC_VECTOR -(16 bits de saida);
+
+
+
