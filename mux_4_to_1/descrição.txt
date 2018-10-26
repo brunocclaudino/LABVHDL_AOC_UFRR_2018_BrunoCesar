@@ -1,0 +1,12 @@
+O Multiplexador desenvolvido com as respectivas entradas e saidas.
+
+O componente é composto por:
+sel - com o tipo de sinal STD_LOGIC_VECTOR(Vetor de 2 posições para selecionar o valor de saida);
+A: com o tipo de sinal STD_LOGIC_VECTOR( vetor de 4 posições);
+saida: com o tipo de sinal STD_LOGIC_VECTOR(saida do componente,saida A(0) se sel = "00",A(1) se sel = "01",A(2) se sel = "10",A(3) se sel = "11").
+
+	
+
+
+
+
