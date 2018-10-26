@@ -1,0 +1,10 @@
+O Somador de 16 bits;
+
+carry_in: com o tipo de sinal STD_LOGIC(Valor de entrada para a operação); 
+carry_out: com o tipo de sinal STD_LOGIC(indicador de OverFlow);
+Entradas A e B: com o tipo de sinal STD_LOGIC_VECTOR(16 bits, Operandos, valores que serão somados);
+saida -  com o tipo de sinal STD_LOGIC_VECTOR(16 bits,resultado da operação);
+
+
+
+

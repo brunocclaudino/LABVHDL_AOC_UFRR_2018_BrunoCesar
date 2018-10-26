@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+ENTITY somador16bits IS
+port(
+	cin : in STD_LOGIC;
+	a,b: in STD_LOGIC_VECTOR(15 DOWNTO 0);
+	cout: out STD_LOGIC;
+	s: out STD_LOGIC_VECTOR(15 DOWNTO 0);
+);
+END somador16bits;
+ARCHITECTURE somador16bits_arch of somador16bits is
+BEGIN
+	PROCESS (a,b,cin)
+	VARIABLE soma: STD_LOGIC_VECTOR(15 DOWNTO 0);
+	VARIABLE c: STD_LOGIC;
+	BEGIN
+	
